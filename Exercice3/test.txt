@@ -1,0 +1,3 @@
+Bonsoir !
+Bienvenue dans le cours C++.
+Exercice 3 : lecture d'un fichier.
